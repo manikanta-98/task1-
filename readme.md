@@ -9,7 +9,7 @@ This project was built as part of an internship task to explore Bootstrap’s of
 
 The project demonstrates:
 
-Direct integration of Bootstrap components (no partials or fetch API)
+Direct integration of Bootstrap components 
 
 Clean, consistent Bootstrap-based layout
 
@@ -17,7 +17,7 @@ Fully responsive and mobile-friendly pages
 
 Professional design with minimal and effective styling
 
-A lightweight project structure (no external images used)
+A lightweight project structure 
 
 🏗️ Project Structure
 bootstrap-ui-project/
@@ -43,15 +43,15 @@ Features section showing performance, design, and responsiveness
 
 ℹ️ About Page (about.html)
 
-Two-column layout introducing the developer (you)
+Two-column layout introducing the developer
 
-Simple, professional Bootstrap layout (text-focused, no images)
+Simple, professional Bootstrap layout 
 
 💬 Contact Page (contact.html)
 
 Contact form with validation attributes
 
-Clean and responsive form design (no external illustrations used)
+Clean and responsive form design
 
 🧰 Technologies Used
 Technology	Purpose
@@ -97,6 +97,14 @@ ChatGPT – Guidance for structuring and refining UI
 By directly coding layouts (without partials or external images), I focused on understanding grid systems, spacing, and typography.
 This improved my ability to create professional designs while keeping the code simple and maintainable.”
 
+
+Time Taken
+Setup: 2 hours
+Design & Coding: 5 hours
+Testing & Fixing: 1 hour
+Documentation & Hosting: 1 hour
+Total: Around 9 hours
+
 👏 Credits
 
 Bootstrap 5 Documentation – https://getbootstrap.com/
@@ -108,3 +116,5 @@ Deployment: GitHub Pages
 💎 Live Preview
 
 Once hosted, the project will be available at:
+https://manikanta-98.github.io/task1-/
+
